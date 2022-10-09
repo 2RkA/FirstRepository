@@ -1,5 +1,6 @@
 import setuptools
 
+#Yaroslav Platonov IB-b-21-1-o
 
 with open('README.md', 'r') as f:
   long_description = f.read()
